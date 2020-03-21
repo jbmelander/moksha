@@ -1,0 +1,96 @@
+{
+    "Palette": {
+        "Default": "white_black",
+        "Highlight": "black_white",
+
+        "GroupBar": "black_white",
+        "GroupBarHighlight": "red_white",
+        "GroupBarCurrent": "red_white",
+
+        "GroupPopupBG": "red_white",
+        "GroupPopupText": "black_white",
+        "GroupPopupTitle": "red_white",
+
+        "GroupDialogStripe": "black_red",
+        "GroupDialogText":"red_white",
+        "GroupPositionMarker":"red_white",
+
+        "Title": "red_white", 
+        "SubTitle": "white_black",
+        "TitleBar": "black_white",
+        "SubTitleBar": "red_black",
+
+        "BranchText": "red_black",
+
+        "PositionMarker": "green_black",
+
+        "DialoguePromptText": "white_black",
+        "DialoguePromptStripe": "black_white",
+
+        "Saved": "black_white",
+        "Unsaved": "black_red",
+
+        "BackText": "red_black",
+        "BackPositionMarker":"green_black",
+        "BackBG": "red_black",
+
+        "WarningPopupBG": "black_red"
+    },
+
+    "Coordinates": {
+        "GroupBarY": 0,
+        "PopBarOffset":0,
+        "OpenPopBar":8,
+        "TitleOffset": 1,
+        
+        "BranchTextOffset": 1,
+        "BranchTextX": 0,
+
+        "ChildrenOffset": 1,
+        "ChildrenX": 3,
+
+        "BackOffset": 1,
+        "BackX":3,
+
+        "GroupItemOffset":1
+    },
+
+    "Bindings": {
+        "Quit": ["q"],
+        "QuickQuit": ["Q"],
+        "Down": ["j", "KEY_DOWN"],
+        "Up": ["k", "KEY_UP"],
+        "NewBaseBranch": ["n"],
+        "NewCalBranch": ["c"],
+        "RmBranch": ["d"],
+        "Save": ["s"],
+        "SaveAs": ["S"],
+        "Load": ["L"],
+        "Back": ["b"],
+
+        "GoToRoot": ["R"],
+
+        "AddToGroup": ["g"],
+
+        "OpenGroupPopup":[" "],
+        "GroupRename":["r"],
+        "GroupReset":["R"],
+        "GroupRemove":["d"],
+        "GroupRmRf":["D"],
+        "GroupGoTo":["m"]
+
+    },
+
+    "Display": {
+        "PositionMarker": ">",
+        "MainDelimiter": "",
+        "HasChildrenMarker": " (+)",
+        "NoChildrenMarker": " ",
+        "GroupPopupPositionMarker": ">"
+    },
+
+    "PathDef": {
+        "SaveDirectory": "/home/melander/Documents/",
+        "DefaultFile": "life.yml"
+    }
+}
