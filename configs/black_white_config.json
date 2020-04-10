@@ -3,9 +3,9 @@
         "Default": "white_black",
         "Highlight": "black_white",
 
-        "GroupBar": "black_white",
-        "GroupBarHighlight": "black_green",
-        "GroupBarCurrent": "black_white",
+        "GroupBar": "black_yellow",
+        "GroupBarHighlight": "green_yellow",
+        "GroupBarCurrent": "black_yellow",
 
         "GroupPopupBG": "red_white",
         "GroupPopupText": "black_white",
@@ -15,10 +15,10 @@
         "GroupDialogText":"red_white",
         "GroupPositionMarker":"red_white",
 
-        "Title": "white_black", 
-        "SubTitle": "black_white",
-        "TitleBar": "white_black",
-        "SubTitleBar": "black_white",
+        "Title": "black_yellow", 
+        "SubTitle": "black_yellow",
+        "TitleBar": "black_yellow",
+        "SubTitleBar": "black_yellow",
 
         "BranchText": "red_black",
 
@@ -28,7 +28,7 @@
         "DialoguePromptStripe": "black_white",
 
         "Saved": "black_white",
-        "Unsaved": "red_white",
+        "Unsaved": "black_red",
 
         "BackText": "red_black",
         "BackPositionMarker":"green_black",
@@ -91,6 +91,6 @@
 
     "PathDef": {
         "SaveDirectory": "/home/melander/Documents/",
-        "DefaultFile": "break.yml"
+        "DefaultFile": "life.yml"
     }
 }

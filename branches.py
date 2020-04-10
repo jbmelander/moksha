@@ -109,7 +109,7 @@ class Base:
                     stdscr.chgat(TitleY+nt,0,x,P.TitleBar)
                 except curses.error:
                     pass
-            SubTitleY = n_title_lines+2 
+            SubTitleY = n_title_lines+1
             BranchTextY = CO.BranchTextOffset + SubTitleY + 1
             stdscr.chgat(SubTitleY,0,x,P.SubTitleBar)
             stdscr.chgat(BranchTextY,0,x,P.BranchText)
