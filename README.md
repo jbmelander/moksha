@@ -9,7 +9,7 @@ __Moksha__ is an extensible, customizable CLI (written with a __Python 3__ and _
 
 # Config
 * Colors, draw coordinates, and keybindings can be modified in /moksha/configs/config.json
-*
+
 # Key Bindings
 
 * `n` = New branch
