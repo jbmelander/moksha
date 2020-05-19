@@ -1,4 +1,10 @@
 # Moksha
+## To Start:
+1. Edit ../moksha/configs/config.json so that the last entry in the json, called `PathDef` points to the directory and filename that you would like to use for your save file.
+2. Make sure you have python's `curses` library installed
+3. In a __full-screen__ terminal, `cd` to the `moksha/` directory and run:
+``python3 main.py``
+
 __Moksha__ is an extensible, customizable CLI (written with a __Python 3__ and __ncurses__ backend) that aims to embed the user's redundant, fleeting and high-dimensional mental-processes into a single hierarchical and archival data-structure. _In other words, it's a todo/calendar/journaling/note-taking/organizer for your terminal._
 
 # Config
