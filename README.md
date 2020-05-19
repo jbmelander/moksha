@@ -1,6 +1,6 @@
 # Moksha
 ## To Start:
-1. Edit ../moksha/configs/config.json so that the last entry in the json, called `PathDef` points to the directory and filename that you would like to use for your save file.
+1. Edit `../moksha/configs/config.json` so that the last entry in the json, called `PathDef` points to the directory and filename that you would like to use for your save file.
 2. Make sure you have python's `curses` library installed
 3. In a __full-screen__ terminal, `cd` to the `moksha/` directory and run:
 ``python3 main.py``
