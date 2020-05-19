@@ -6,6 +6,8 @@ from utils import Config
 from widgets import dialog_popup,warning_popup,return_ascii_title,group_popup
 
 class Base:
+    """Base branch that handles all drawing"""
+
     def __init__(self,
             main_text,
             parent=None,

@@ -4,6 +4,9 @@ import json
 import curses
 
 class Config:
+    """Config object that holds a session's user-defined properties.
+
+    Includes paths, coordinates and colors"""
     def __init__(self):
         data = self.get_data()
 
