@@ -7,13 +7,13 @@
         "GroupBarHighlight": "black_green",
         "GroupBarCurrent": "black_white",
 
-        "GroupPopupBG": "red_white",
+        "GroupPopupBG": "black_white",
         "GroupPopupText": "black_white",
-        "GroupPopupTitle": "red_white",
+        "GroupPopupTitle": "black_white",
 
         "GroupDialogStripe": "black_red",
-        "GroupDialogText":"red_white",
-        "GroupPositionMarker":"red_white",
+        "GroupDialogText":"black_white",
+        "GroupPositionMarker":"red_black",
 
         "Title": "white_black", 
         "SubTitle": "black_white",
@@ -27,8 +27,8 @@
         "DialoguePromptText": "white_black",
         "DialoguePromptStripe": "black_white",
 
-        "Saved": "black_white",
-        "Unsaved": "red_white",
+        "Saved": "green_black",
+        "Unsaved": "black_red",
 
         "BackText": "red_black",
         "BackPositionMarker":"green_black",
